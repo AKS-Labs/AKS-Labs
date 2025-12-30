@@ -1,9 +1,10 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+👋;I+build+Android+apps+📱;Open+Source+lover+❤️;Turning+ideas+into+apps+🚀"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya;I+build+Android+apps;Open+Source+|+App+Developer;Turning+ideas+into+apps"
     alt="Typing SVG"
   />
 </p>
+
 <div align="center">
 
 ## Hi there 👋, I'm Aditya!  
@@ -20,29 +21,34 @@ I craft fast, modern, and user-friendly mobile apps. I love exploring new tech, 
 ## Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
-![MaterialYou](https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you)
-![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logoColor=ffffff&logo=Ktor)
-![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF)
+![Material You](https://custom-icon-badges.demolab.com/badge/Material%20You-lightblue?style=for-the-badge&logo=material-you&logoColor=333)
 
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=ffffff)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logoColor=000000)
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF)
+
+![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![Flow](https://img.shields.io/badge/Kotlin%20Flow-0095D5?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge&logoColor=ffffff)
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=ffffff)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=ffffff)
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
 
 ## Secondary skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=ffffff&logo=java)
-![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logoColor=ffffff&logo=kotlin)
-![Flow](https://img.shields.io/badge/Kotlin%20Flow-0095D5?style=for-the-badge&logoColor=ffffff&logo=kotlin)
-![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=ffffff)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logoColor=ffffff&logo=json)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logoColor=000000)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logoColor=000000&logo=android)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=000000&logo=linux)
-![Lifecycle](https://img.shields.io/badge/Android%20Lifecycle-00C853?style=for-the-badge&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=ffffff)
+![Android Lifecycle](https://img.shields.io/badge/Android%20Lifecycle-00C853?style=for-the-badge&logoColor=ffffff)
 ![Android Internals](https://img.shields.io/badge/Android%20Internals-2E7D32?style=for-the-badge&logoColor=ffffff)
+
 ![App Performance](https://img.shields.io/badge/App%20Performance-FF9800?style=for-the-badge&logoColor=ffffff)
 ![Debugging](https://img.shields.io/badge/Debugging-9C27B0?style=for-the-badge&logoColor=ffffff)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+
 
 
 
@@ -84,17 +90,34 @@ I craft fast, modern, and user-friendly mobile apps. I love exploring new tech, 
 
 
 
-## Github Statistic
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AKS-Labs&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AKS-Labs&show_icons=true&theme=codeSTACKr&hide_border=true" width="47%" />
-</div>
-<br />
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKS-Labs&layout=compact&theme=codeSTACKr&hide_border=true" width="38%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AKS-Labs&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5&hide_border=true&radius=16&line=42a4f5&point=40edab&area_color=40edab&color=40edab" width="59%" />
-</div>
+## 📊 GitHub Statistic   
+
+
+<!-- ROW 1 -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=AKS-Labs&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5"
+    height="160"
+  />
+  <img
+    src="https://github-stats-tau-nine.vercel.app/api?username=AKS-Labs&show_icons=true&hide_rank=true&theme=codeSTACKr&hide_border=true&bg_color=061821&title_color=42a4f5&icon_color=40edab"
+    height="160"
+  />
+</p>
+
+<!-- ROW 2 -->
+<p align="center">
+  <img
+    src="https://github-stats-tau-nine.vercel.app/api/top-langs?username=AKS-Labs&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&bg_color=061821&title_color=42a4f5"
+    height="160"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AKS-Labs&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5&hide_border=true&radius=16&line=42a4f5&point=40edab&area_color=40edab&color=40edab"
+    height="160"
+  />
+</p>
+
 
 
 
