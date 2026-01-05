@@ -10,8 +10,11 @@
 ## Hi there 👋, I'm Aditya!  
 
 
-### Kotlin Mobile Developer | Crafting Intuitive & Powerful Apps
+### Kotlin Mobile App Developer | Crafting Intuitive & Powerful Apps
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AKS-Labs/AKS-Labs/main/cover.png" width="100%" />
+</p>
 
 
 
