@@ -24,12 +24,12 @@ I craft fast, modern, and user-friendly mobile apps. I love exploring new tech, 
 ## Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF)
+![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 ![Material You](https://custom-icon-badges.demolab.com/badge/Material%20You-lightblue?style=for-the-badge&logo=material-you&logoColor=333)
 
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=ffffff)
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logoColor=000000)
-![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
 ![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 ![Flow](https://img.shields.io/badge/Kotlin%20Flow-0095D5?style=for-the-badge&logo=kotlin&logoColor=ffffff)
