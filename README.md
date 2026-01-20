@@ -133,7 +133,7 @@ I craft fast, modern, and user-friendly mobile apps. I love exploring new tech, 
 ## 📬 **Let's Connect!**  
 
 <a href="https://t.me/AKSLabs"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aditya-shinde-098733204)</code>
+<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adityashinde-aks)</code>
 <!-- <a href="https://www.reddit.com/u/AKSLabs"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://AKSLabs.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a> -->
 ##
