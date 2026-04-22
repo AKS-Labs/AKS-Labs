@@ -18,7 +18,7 @@
 
 
 
-I craft fast, modern, and user-friendly mobile apps. I love exploring new tech, refining workflows, and turning ideas into smooth, delightful experiences. Always building, always learning 🚀
+<!-- I craft fast, modern, and user-friendly mobile apps. I love exploring new tech, refining workflows, and turning ideas into smooth, delightful experiences. Always building, always learning 🚀-->
 
 
 ## Tech Stack
