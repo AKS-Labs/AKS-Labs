@@ -102,24 +102,21 @@
     src="https://github-readme-streak-stats-eight.vercel.app/?user=AKS-Labs&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5"
     height="160"
   />
-  <img
-    src="https://aks-github-stats.vercel.app/api?username=AKS-Labs&show_icons=true&hide_rank=true&include_all_commits=true&theme=codeSTACKr&hide_border=true&bg_color=061821&title_color=42a4f5&icon_color=40edab"
-    height="160"
-  />
 </p>
 
 <!-- ROW 2 -->
 
 <p align="center">
   <img
-    src="https://aks-github-stats.vercel.app/api/top-langs?username=AKS-Labs&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&bg_color=061821&title_color=42a4f5"
+    src="https://aks-github-stats.vercel.app/api?username=AKS-Labs&show_icons=true&hide_rank=true&hide=commits&theme=codeSTACKr&hide_border=true&bg_color=061821&title_color=42a4f5&icon_color=40edab"
     height="160"
   />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AKS-Labs&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5&hide_border=true&radius=16&line=42a4f5&point=40edab&area_color=40edab&color=40edab"
+    src="https://aks-github-stats.vercel.app/api/top-langs?username=AKS-Labs&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&bg_color=061821&title_color=42a4f5"
     height="160"
   />
 </p>
+
 
 
 ## Contrubutions   
